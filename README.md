@@ -1,2 +1,2 @@
 # Organic
-Organic Food Shop - using Bootstrap
+Responsive Organic Food Shop - Website Template with HTML, SCSS & JavaScript
