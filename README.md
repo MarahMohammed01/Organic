@@ -1,3 +1,2 @@
 # Organic
-Organic Food Shop
-using Bootstrap
+Organic Food Shop - using Bootstrap
